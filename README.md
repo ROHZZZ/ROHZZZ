@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohzzz&label=Profile%20views&color=0e75b6&style=flat" alt="rohzzz" /> </p>
 
-- 🌱 I’m currently learning **Cloud infrastructure**
+- 🌱 I’m currently working on various **Cloud infrastructure** project like deploying a three tier application and learning various new cloud services
 
-- 💬 Ask me about **Azure , C++**
+- 💬 Ask me about **AWS , C++ , SQL** 
 
 - 📫 How to reach me **rohitsact1215@gmail.com**
 
-- ⚡ Fun fact **I am humorous**
+- ⚡ Fun fact **I Love hiking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
